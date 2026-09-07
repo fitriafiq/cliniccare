@@ -1,0 +1,15 @@
+# Python / backend
+backend/.venv/
+**/__pycache__/
+*.pyc
+*.db
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+.idea
+.fleet

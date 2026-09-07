@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+@import '@nuxt/ui';
+
+:root {
+	--ui-primary: #000000;
+}
+
+@theme {
+	--font-poppins: 'Poppins', sans-serif;
+}
+
+html {
+	scroll-behavior: smooth;
+}
